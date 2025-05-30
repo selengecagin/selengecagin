@@ -1,4 +1,4 @@
-### Hi, I am Selenge 👋🏻
+### Hi 👋🏻
 
 
 ## 🌐 Socials:
