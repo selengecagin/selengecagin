@@ -1,4 +1,4 @@
-### ✨ Hi, I'm Selenge! ✨
+### Hi, I'm Selenge 👋🏻
 📊 Data Analyst passionate about turning raw data into meaningful stories  
 🎓 Master's student in Data Science at University of Colorado Boulder  
 🚀 On a mission to master advanced analytics, machine learning, and the art of data visualization  
