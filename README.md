@@ -1,6 +1,6 @@
 ### Hi, I'm Selenge 👋🏻
 I build data pipelines and integration systems. Currently working at the intersection of stream processing and workflow orchestration, where Kafka meets BPMN, and production decisions actually hurt if you get them wrong.
-Previously a Data Analyst at Capgemini Engineering (BigQuery, Looker, PostgreSQL) and Prisync. Now going deeper on the engineering side.
+Previously a Data Analyst at Capgemini Engineering (BigQuery, Looker, PostgreSQL). Now going deeper on the engineering side.
 Tech I work with: Python Apache Kafka PostgreSQL Java BigQuery BPMN/Camunda
 Learning: Apache Spark dbt Airflow
 
