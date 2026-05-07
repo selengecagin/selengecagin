@@ -4,8 +4,8 @@ Previously a Data Analyst at Capgemini Engineering (BigQuery, Looker, PostgreSQL
 Tech I work with: Python Apache Kafka PostgreSQL Java BigQuery BPMN/Camunda
 Learning: Apache Spark dbt Airflow
 
-📝 Writing about what I'm building → Medium
-💼 Let's connect → LinkedIn
+📝 Writing about what I'm building → [Medium](https://medium.com/@selengecagin)
+💼 Let's connect → [LinkedIn](https://linkedin.com/in/selengecagin)
 
 
 ### 💻 Tech Stack:
