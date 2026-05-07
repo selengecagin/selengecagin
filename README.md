@@ -1,8 +1,11 @@
 ### Hi, I'm Selenge 👋🏻
-📊 Data Analyst passionate about turning raw data into meaningful stories  
-🎓 Master's student in Data Science at University of Colorado Boulder  
-🚀 On a mission to master advanced analytics, machine learning, and the art of data visualization  
-💡 Always curious about uncovering hidden patterns and insights that drive real impact! 
+I build data pipelines and integration systems. Currently working at the intersection of stream processing and workflow orchestration, where Kafka meets BPMN, and production decisions actually hurt if you get them wrong.
+Previously a Data Analyst at Capgemini Engineering (BigQuery, Looker, PostgreSQL) and Prisync. Now going deeper on the engineering side.
+Tech I work with: Python Apache Kafka PostgreSQL Java BigQuery BPMN/Camunda
+Learning: Apache Spark dbt Airflow
+
+📝 Writing about what I'm building → Medium
+💼 Let's connect → LinkedIn
 
 
 ### 💻 Tech Stack:
